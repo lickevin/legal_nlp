@@ -11,7 +11,7 @@
 - Baseline Zero-Shot LLM with Llama3-8b-Instruct (binary classification over entire test data set)
 
 ### Hyunji
-- Implemetation of OPRO using Llama 3.2 3B Instruct
+- Implemetation of OPRO using Llama 3.2 3B Instruct (binary and multilabel)
 - Weekly Presentations
 
 # 21.05. - 28.05.
